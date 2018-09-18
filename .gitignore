@@ -29,4 +29,5 @@ hs_err_pid*
 /cloud_client/out/
 /cloud_client/target/
 Spring_Cloud_Config_Test.iml
+.iml
 
