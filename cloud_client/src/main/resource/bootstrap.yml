@@ -1,0 +1,11 @@
+#server:
+#  port: 8081
+
+spring:
+  application:
+    name: cloud_client
+  profiles:
+    active: dev
+  cloud:
+    config:
+      uri: http://180.76.156.103:8888

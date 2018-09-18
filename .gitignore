@@ -21,8 +21,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .idea/
-out/
-target/
-src/main/resources/
+/cloud_config/out/
+/cloud_config/target/
+/cloud_config/src/main/resources/
+/cloud_center/out/
+/cloud_center/target/
+/cloud_client/out/
+/cloud_client/target/
 Spring_Cloud_Config_Test.iml
 
